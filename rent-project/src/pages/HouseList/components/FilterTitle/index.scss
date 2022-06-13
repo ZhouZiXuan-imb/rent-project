@@ -1,0 +1,30 @@
+.filter-title {
+  height: 40px;
+  border-bottom: 1px solid #e4e6f0;
+
+  .title-flex {
+    height: 100%;
+    background-color: #fff;
+  }
+
+  .title-item {
+    text-align: center;
+
+    .dropdown {
+      display: inline-block;
+      font-size: 17px;
+      background-color: #fff;
+    }
+
+    .icon-arrow {
+      margin-left: 3px;
+      color: #bbb;
+      font-size: 12px;
+    }
+  }
+
+  .title-item-active {
+    color: #21b97a;
+  }
+
+}

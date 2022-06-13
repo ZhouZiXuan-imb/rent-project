@@ -1,0 +1,17 @@
+.nav {
+    padding: 10px 0;
+    background-color: #fff;
+}
+
+.nav img {
+    width: 48px;
+}
+
+.nav p {
+    margin-top: 10px;
+    font-size: 13px;
+}
+
+.nav .am-flexbox-item {
+    text-align: center;
+}

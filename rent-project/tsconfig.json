@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        // "module": "es2020",
+        "module": "es2020", // 修改 commonjs -- esnext
+        "moduleResolution": "Node",
+        // ++ 这里加上baseUrl 和 path即可 ++
+//        "baseUrl": "./",
+//        "paths": {
+//            // 根据别名配置相关路径
+//            "@src/*": ["./src/*"]
+//        }
+    }, // 指定一个匹配列表（属于自动指定该路径下的所有ts相关文件）
+    "include": [
+        "src/**/*",
+        "./images.d.ts" //文件路径
+    ]
+}
