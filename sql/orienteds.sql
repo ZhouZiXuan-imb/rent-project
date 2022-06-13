@@ -1,0 +1,8 @@
+INSERT INTO `orienteds` VALUES (9, '东', 'ORIEN|141b98bf-1ad0-11e3', '2019-5-7 16:51:52', '2019-5-7 16:51:52');
+INSERT INTO `orienteds` VALUES (10, '南', 'ORIEN|61e99445-e95e-7f37', '2019-5-7 16:51:52', '2019-5-7 16:51:52');
+INSERT INTO `orienteds` VALUES (11, '东南', 'ORIEN|dfb1b36b-e0d1-0977', '2019-5-7 16:51:52', '2019-5-7 16:51:52');
+INSERT INTO `orienteds` VALUES (12, '北', 'ORIEN|caa6f80b-b764-c2df', '2019-5-7 16:51:52', '2019-5-7 16:51:52');
+INSERT INTO `orienteds` VALUES (13, '西北', 'ORIEN|80795f1a-e32f-feb9', '2019-5-7 16:51:52', '2019-5-7 16:51:52');
+INSERT INTO `orienteds` VALUES (14, '西', 'ORIEN|103fb3aa-e8b4-de0e', '2019-5-7 16:51:52', '2019-5-7 16:51:52');
+INSERT INTO `orienteds` VALUES (15, '东北', 'ORIEN|67ac2205-7e0f-c057', '2019-5-7 16:51:52', '2019-5-7 16:51:52');
+INSERT INTO `orienteds` VALUES (16, '西南', 'ORIEN|2354e89e-3918-9cef', '2019-5-7 16:51:52', '2019-5-7 16:51:52');

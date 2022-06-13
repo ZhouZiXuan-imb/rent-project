@@ -1,0 +1,13 @@
+INSERT INTO `characteristics` VALUES (1, '集中供暖', 'CHAR|f56b9ad7-a97c-b28f', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (2, '双卫生间', 'CHAR|51ae05f0-7c7a-c24b', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (3, '近地铁', 'CHAR|76eb0532-8099-d1f4', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (4, '随时看房', 'CHAR|ee11187b-a631-beef', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (5, '精装', 'CHAR|1d9bf0be-284f-93dd', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (6, '公寓', 'CHAR|2d9fb1b2-dbf9-eb64', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (7, '独立卫生间', 'CHAR|c3d3e453-c3fa-d4af', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (8, '押一付一', 'CHAR|f838b575-9196-bf13', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (9, '独立阳台', 'CHAR|479e8f8a-f193-9605', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (10, '月租', 'CHAR|3870eb95-3f80-e5f8', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (11, '限女生', 'CHAR|014e0e46-2147-8785', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (12, '限男生', 'CHAR|7121e024-499d-c929', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `characteristics` VALUES (13, '新上', 'CHAR|41e8322b-3846-d721', '2019-5-7 16:51:53', '2019-5-7 16:51:53');

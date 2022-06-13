@@ -1,0 +1,10 @@
+INSERT INTO `devices` VALUES (1, '电视', 'SBac4167b0-cf6a-6198', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `devices` VALUES (2, '冰箱', 'SB33e3135d-98ac-aeef', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `devices` VALUES (3, '洗衣机', 'SBda30d5f8-55d5-56c0', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `devices` VALUES (4, '空调', 'SB256d93cd-84f5-e1fa', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `devices` VALUES (5, '热水器', 'SB1f7f33a6-4d2c-ba54', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `devices` VALUES (6, '床', 'SB406f3750-28b8-b073', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `devices` VALUES (7, '暖气', 'SBd564bedf-928e-b995', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `devices` VALUES (8, '宽带', 'SBbe2b2eb9-74cf-c43e', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `devices` VALUES (9, '衣柜', 'SB13fb1c01-417b-5124', '2019-5-7 16:51:53', '2019-5-7 16:51:53');
+INSERT INTO `devices` VALUES (10, '天然气', 'SBfcae66b5-0bb9-1c43', '2019-5-7 16:51:53', '2019-5-7 16:51:53');

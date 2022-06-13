@@ -1,0 +1,1 @@
+INSERT INTO `collections` VALUES (1, '5c9fc2e1665b23039a22e89b', 4, '2019-5-11 08:02:13', '2019-5-11 08:02:13');
